@@ -11,12 +11,6 @@ Designed a WebScraping Program which scraps data of WorldCup -2019 cricket world
  
  
   ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-## Features
-* Separate DataFolder for each Team, which contains all the pdfs of that team.
-* Integrated django-crispy-forms for the management of django forms.
-* Crispy forms allows forms properties(such as methods, send button or CSS classes) on the backend without having to re-write them in the template .
-* Integrated Stripe’s payments APIs for carrying out the online payment process.
-
 
 ## Features
 * Separate DataFolder for each Team, which contains all the pdfs of that team
