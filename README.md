@@ -5,12 +5,11 @@ Designed a WebScraping Program which scraps data of WorldCup -2019 cricket world
 * .csv file
 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)   ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
-
-
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
- 
- 
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,vscode" />
+  </a>
+</p>
 
 ## Features
 * Separate DataFolder for each Team, which contains all the pdfs of that team
